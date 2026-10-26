@@ -182,7 +182,7 @@ SAMPLE_SCENARIOS = {
         "f_free": "", "f_duration": "Less than 24 hours", "f_severity": 9,
         "f_cond": "High blood pressure", "f_meds": "", "f_notes": "", "f_lang": "English",
     },
-    "🌐 Urdu cold": {
+    "🌐 Cold - Urdu reply": {
         "f_age": "25", "f_gender": "Female", "f_symptoms": ["Runny nose", "Sore throat"],
         "f_free": "", "f_duration": "1-3 days", "f_severity": 2,
         "f_cond": "", "f_meds": "", "f_notes": "", "f_lang": "Urdu",
